@@ -1,5 +1,5 @@
 # White Hat Gaming Looby test
-# running the project in tour machine 
+# running the project in your machine 
 - git clone https://github.com/baloyijs/looby.git
 - rum npm install
 -ng serve 
